@@ -56,7 +56,7 @@ for(let i=0 ;i<posts.length;i++)
 }
 const likesEl =document.getElementsByClassName("likes")
 const hearts=document.getElementsByClassName("heart")
-//likesEl[0].textContent=` `
+
 
 for(let j=0;j<hearts.length;j++ ) 
 {    
